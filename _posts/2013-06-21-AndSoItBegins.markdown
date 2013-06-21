@@ -1,3 +1,11 @@
+---
+comments: true
+date 2013-06-21 07:11:30
+layout: post
+slug: Welcome-post
+title: And So it Begins
+---
+
 Hey there! 
 Welcome to PhotographyN00b! I intend to use this blog to create a step-by-step guide to basic photography as I learn it myself.
 
