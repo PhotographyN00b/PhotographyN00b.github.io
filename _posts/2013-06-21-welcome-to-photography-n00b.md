@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Photography N00b"
 description: "A step by step to DSLR photography as I learn it myself"
-category: 
+category: "Welcome Post" 
 tags: []
 ---
 Hey there!
