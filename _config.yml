@@ -9,14 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : PhotographyN00b
+title : Photography N00b
 tagline: Step by Step guide to DSLR photography as I learn it myself
 author :
   name : Akshay Kothari
-#  email : 
+  email : akshay.kothari47@gmail.com 
   github : PhotographyN00b
-#  twitter : 
-#  feedburner : feedname
+  twitter : twitter.com/akshay_kothari 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
