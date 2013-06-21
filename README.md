@@ -1,6 +1,6 @@
-# Jekyll-Bootstrap
+# Photography N00b
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+It's a simple blog about basic photography using a DSLR. I'm a N00b myself. Thought I might get to learn more if I share whatever I'm learning.
 
 ## Usage
 
@@ -43,4 +43,6 @@ The master and gh-pages branch do not share the same ancestry. Please treat them
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+[Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+You can copy the code under Jekyll all you want, but all that is under _posts and _resources is Copyrighted by me.
