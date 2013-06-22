@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : photographyn00b
+      short_name : PhotographyN00b
     livefyre :
       site_id : 123
     intensedebate :
