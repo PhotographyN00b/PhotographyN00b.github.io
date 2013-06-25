@@ -4,7 +4,6 @@ title: "Setting Up The Camera"
 description: ""
 category: Basics 
 tags: [Basics]
-      [Camera]
 ---
 {% include JB/setup %}
 
