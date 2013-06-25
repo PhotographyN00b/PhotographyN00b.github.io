@@ -10,19 +10,19 @@ tags: [Basics]
 <p>
 So now that you have bought the camera, the first step is to set it up.
 These were the contents of the box containing the camera I purchased, which are the minimum requirements for photography:
-
-   1. The camera 
-   2. An 18-55 mm IS II Lens
-   3. The battery along with the charger
-   4. A 4 GB 30 MB/s memory card
-   5. A Lens cover
+<br>
+   1. The camera<br> 
+   2. An 18-55 mm IS II Lens<br>
+   3. The battery along with the charger<br>
+   4. A 4 GB 30 MB/s memory card<br>
+   5. A Lens cover<br>
 
 
 
 <img src='/resources/Post1/pic1.jpg' height='350' title='The Camera Body'/><center><font size="2">The Camera Body</font></center><br> 
-<img src='/resources/Post1/pic2.png' height='350' title='The Lens'/><center>The Lens</center><br> 
-<img src='/resources/Post1/pic3.png' height='350' title='The Battery'/><center>The Battery</center><br>
-<img src='/resources/Post1/pic4.png' height='350' title='The Memory Card'/><center>The Memory Card</center><br>
+<img src='/resources/Post1/pic2.png' height='350' title='The Lens'/><center><font size="2">The Lens</font></center><br> 
+<img src='/resources/Post1/pic3.png' height='350' title='The Battery'/><center><font size="2">The Battery</font></center><br>
+<img src='/resources/Post1/pic4.png' height='350' title='The Memory Card'/><center><font size="2">The Memory Card</font></center><br>
 
 First you fit the lens into the camera. There are white markings on the lens and the camera. Place the lens on the camera, with the markings in contact as per the image below  :
 <img src='/resources/Post1/pic5.png' height='350' /><br>
