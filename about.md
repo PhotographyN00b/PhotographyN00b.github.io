@@ -11,4 +11,4 @@ See you on:
 * [Twitter](http://www.twitter.com/akshay_kothari)
 * [GitHub](http://github.com/photographyn00b)
 * [Linkedin](http://www.linkedin.com/pub/akshay-kothari/7/6a9/466)
-* [Facebook](http://www.linkedin.com/pub/akshay-kothari/7/6a9/466) 
+* [Facebook](http://www.facebook.com/akshay.kothari47) 
