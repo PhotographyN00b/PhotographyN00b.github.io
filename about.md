@@ -7,7 +7,8 @@ description: ""
 
 <center><img src='/resources/about.jpg' height='350' /></center>
 
-I am Akshay Kothari. I used to work at one of those corporate MNCs till I got some sense and decided to be the master of my own life.
+I am Akshay, a photography n00b. 
+I have created this blog to share my experience as I learn how to use a DSLR camera and some basics of photography as well.
 
 See you on: 
 * [Twitter](http://www.twitter.com/akshay_kothari)
