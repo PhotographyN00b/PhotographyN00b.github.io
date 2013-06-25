@@ -19,7 +19,7 @@ These were the contents of the box containing the camera I purchased, which are 
 </p>
 
 <center> 
-  <img src='/resources/Post1/pic1.jpg' height='350' title='The Camera Body'/><p {font-size:14px;}>The Camera Body</p>
+  <img src='/resources/Post1/pic1.jpg' height='350' title='The Camera Body'/><p>The Camera Body</p>
   <img src='/resources/Post1/pic2.jpg' height='350' title='The Lens'/><p><The Lens</p>
   <img src='/resources/Post1/pic3.jpg' height='350' title='The Battery'/><p>The Battery</p>
   <img src='/resources/Post1/pic4.jpg' height='350' title='The Memory Card'/><p>The Memory Card</font></p>
