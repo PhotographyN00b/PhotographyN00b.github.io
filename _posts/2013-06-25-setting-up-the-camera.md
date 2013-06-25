@@ -21,7 +21,7 @@ These were the contents of the box containing the camera I purchased, which are 
   <img src='/resources/Post1/pic1.jpg' height='350' title='The Camera Body'/><p>The Camera Body</p>
 </center>
 <center>
-  <img src='/resources/Post1/pic2.png' height='350' title='The Lens'/><p><The Lens</p>
+  <img src='/resources/Post1/pic2.png' height='350' title='The Lens'/><p>The Lens</p>
 </center>
 <center>
   <img src='/resources/Post1/pic3.png' height='350' title='The Battery'/><p>The Battery</p>
