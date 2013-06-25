@@ -5,6 +5,8 @@ description: ""
 ---
 {% include JB/setup %}
 
+<center><img src='/resources/about.jpg' height='350' /></center>
+
 I am Akshay Kothari. I used to work at one of those corporate MNCs till I got some sense and decided to be the master of my own life.
 
 See you on: 
