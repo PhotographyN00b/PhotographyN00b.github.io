@@ -23,22 +23,21 @@ These were the contents of the box containing the camera I purchased, which are 
 
 
 First you fit the lens into the camera. There are white markings on the lens and the camera. Place the lens on the camera, with the markings in contact as per the image below  :
- <img src="/resources/Post1/pic5.png" height="350" /> 
-
+![Pic5](http://farm6.staticflickr.com/5500/9173156161_eb45f534e5.jpg)
 
 Then rotate the lens clockwise till you hear a soft click, which means that the lens is now in its place.
- <img src="/resources/Post1/pic6.png" height="350" /> 
+![Pic6](http://farm6.staticflickr.com/5492/9175376152_7a3d241208.jpg)
 
 Then, you insert the memory card which will store all the photographs that you click, and then the charged battery.
 The slots for the memory card and the battery in my camera are at the base.
 
-<img src="/resources/Post1/pic7.png" height="350" />
+![Pic7](http://farm6.staticflickr.com/5469/9173151545_0e450ab33f.jpg)
 
 So we inserted the memory card and the battery
-<img src="/resources/Post1/pic8.png" height="350" />
-<img src="/resources/Post1/pic9.png" height="350" />
+![Pic8](http://farm6.staticflickr.com/5542/9175371996_47be4c569d.jpg)
+![Pic9](http://farm6.staticflickr.com/5336/9173147869_007249f993.jpg)
 
 Now that all the parts are in place, we are good to go.
-<img src="/resources/Post1/pic10.png" height="350" />
+![Pic10](http://farm8.staticflickr.com/7403/9173145795_cb8fba033c.jpg)
 
 Just switch on the camera, and click away&#33;
