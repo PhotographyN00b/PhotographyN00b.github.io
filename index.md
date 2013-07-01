@@ -16,7 +16,7 @@ Published:
 <span class="year">{{ post.date | date: '%Y' }}</span>
 
 
-{{ post.content | truncatewords: 250 }}
+{{ post.content | truncatewords: 30000 }}
 
 [Read More &raquo;]({{ post.url}})
     {% endif %}

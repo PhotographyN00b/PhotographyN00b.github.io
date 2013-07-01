@@ -2,23 +2,22 @@
 layout: post
 title: "Setting Up The Camera"
 description: ""
-category: 
-tags: []
+category: "Basics"
+tags: [Basics]
 ---
-{% include JB/setup %}
 
 So now that you have bought the camera, the first step is to set it up.
 These were the contents of the box containing the camera I purchased, which are the minimum requirements for photography:
  
-   1. The camera  
+   * The camera  
    ![Pic1](http://farm4.staticflickr.com/3725/9173158169_e21bcf2b24.jpg)
-   2. An 18-55 mm IS II Lens 
+   * An 18-55 mm IS II Lens 
    ![Pic2](http://farm8.staticflickr.com/7371/9175380504_d493029a4f.jpg)
-   3. The battery along with the charger 
+   * The battery along with the charger 
    ![Pic3](http://farm8.staticflickr.com/7459/9175379508_008f1ef403.jpg)
-   4. A 4 GB 30 MB/s memory card 
+   * A 4 GB 30 MB/s memory card 
    ![Pic4](http://farm6.staticflickr.com/5483/9175378820_1359846baa.jpg)
-   5. A Lens cover 
+   * A Lens cover 
    ![Pic12](http://farm6.staticflickr.com/5504/9173141655_03bcc21ee3.jpg)
 
 
@@ -41,3 +40,18 @@ Now that all the parts are in place, we are good to go.
 ![Pic10](http://farm8.staticflickr.com/7403/9173145795_cb8fba033c.jpg)
 
 Just switch on the camera, and click away&#33;
+
+In my case, we just needed to turn the dial from OFF to ON
+![Pic11](http://farm4.staticflickr.com/3806/9175365702_dec418261c.jpg)
+
+Usually, a protective cap comes along with the lens, which you should use to cover the lens whenever you are not using the camera. This would help protect your lens from scratches and dust.
+![Pic12](http://farm6.staticflickr.com/5504/9173141655_03bcc21ee3.jpg)
+![Pic13](http://farm6.staticflickr.com/5483/9175362242_6f7ea38d03.jpg)
+
+I have switched my lens from AF (Auto Focus) to MF (Manual Focus).
+![Pic14](http://farm4.staticflickr.com/3808/9175360772_185ca1bbd1.jpg)
+
+Now that the camera is ready, you can go ahead and take some photographs to test it out!  
+
+In the next few posts, we would cover some of the various features of the camera, before we move on with the photography. 
+
