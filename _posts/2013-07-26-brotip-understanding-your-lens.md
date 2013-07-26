@@ -51,7 +51,7 @@ object when viewed through a longer focal length will appear bigger as it captur
 sensor. This is basically how “zoom” works. View the moon through a 18mm lens and appears more like a
 ping pong ball but using a 300 mm lens it actually looks like the moon.
 
-![Video](http://www.flickr.com/apps/video/stewart.swf?v=109786)
+<iframe width="560" height="315" src="http://www.youtube.com/embed/a_7NpD2XnEQ" frameborder="0"></iframe>
 
 Any lens that has a focal length equal (or close to) to the diagonal length of your sensor will be called as a
 normal lens and is so called because it gives the image a look just similar to the way a human eye would
