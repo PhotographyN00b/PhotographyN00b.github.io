@@ -6,28 +6,33 @@ category: "BroTip"
 tags: [BroTip]
 ---
 {% include JB/setup %}
+
+***
+Author: ![Abhimanyu Kumar](http://about.me/abhimanyukumar)
+***
+
 If you are using a DSLR or even a simple point and shoot lens chances are you have seen some really
 confusing numbers written on it. What do these numbers mean and how are they relevant to the kind of
 shot you are taking.
 
 <a href="http://www.flickr.com/photos/akshaykothari/9366958031/" title="Picture 1 by akshaykothari, on Flickr"><img src="http://farm8.staticflickr.com/7330/9366958031_c80d268b56.jpg" width="500" height="375" alt="Picture 1"></a>
 
-__Focal Length__ – This tells use the range of focal length(s) that the lens supports. In this case anything
+__Focal Length__ - This tells use the range of focal length(s) that the lens supports. In this case anything
 from 18mm to 55mm.
 
-__Aperture__ – This tells us the maximum aperture values of the lens at various focal lengths. In this case the
+__Aperture__ - This tells us the maximum aperture values of the lens at various focal lengths. In this case the
 lens will have a max aperture of f/3.5 when the focal length is 18mm and a max aperture of f/5.6 when the
 focal length is 55mm. The minimum aperture in both cases will be f/22 which can be selected when you
 click the picture in manual mode.
 
-__Image Stabilization__ – states the lens has image stabilization which when turned on will try to remove any
+__Image Stabilization__ - states the lens has image stabilization which when turned on will try to remove any
 handshake movements that you might impart while clicking a picture. This is done optically and hence it is
 generally a good idea to leave on but drains battery so if you are using a tripod turns it off.
 
 __Filter Diameter__ - refers to the diameter of the filter ring. If you want to put say a UV filter or a ND filter you
 will have to get one matching this number on the lens or it will not fit.
 
-__Type of lens__ – Zoom, Macro, Prime, Fish-Eye, Pan-Tilt, Etc.
+__Type of lens__ - Zoom, Macro, Prime, Fish-Eye, Pan-Tilt, Etc.
 
 Now if you have been using talking to someone who owns a DSLR you probably would have
 heard the term prime lens or a zoom lens. What does this mean? A prime lens is a lens that has a
@@ -51,7 +56,7 @@ object when viewed through a longer focal length will appear bigger as it captur
 sensor. This is basically how “zoom” works. View the moon through a 18mm lens and appears more like a
 ping pong ball but using a 300 mm lens it actually looks like the moon.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/a_7NpD2XnEQ" frameborder="0"></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/a_7NpD2XnEQ" frameborder="0"> </iframe>
 
 Any lens that has a focal length equal (or close to) to the diagonal length of your sensor will be called as a
 normal lens and is so called because it gives the image a look just similar to the way a human eye would
@@ -73,3 +78,5 @@ This is an image of the same scene taken from the same location using the same c
 focal lengths. Note how the 200 mm zooms into the scene and how the 18mm lens give you a very wide
 angle of the scene. The tree in the 200mm scene is visible in the 18mm scene but is much smaller at it
 occupies less space on the sensor/final image.
+
+
