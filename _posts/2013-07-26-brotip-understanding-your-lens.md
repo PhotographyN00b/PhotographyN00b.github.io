@@ -5,7 +5,6 @@ description: "Understanding Your Lens"
 category: "BroTip"
 tags: [BroTip]
 ---
-{% include JB/setup %}
 
 
 _Author: [Abhimanyu Kumar](http://about.me/abhimanyukumar)_
