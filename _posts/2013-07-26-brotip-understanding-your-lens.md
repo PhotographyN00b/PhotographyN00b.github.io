@@ -6,7 +6,7 @@ category: "BroTip"
 tags: [BroTip]
 ---
 
-> _Author: [Abhimanyu Kumar](http://about.me/abhimanyukumar)_
+
 
 If you are using a DSLR or even a simple point and shoot lens chances are you have seen some really
 confusing numbers written on it. What do these numbers mean and how are they relevant to the kind of
@@ -77,3 +77,4 @@ angle of the scene. The tree in the 200mm scene is visible in the 18mm scene but
 occupies less space on the sensor/final image.
 
 
+> _Author: [Abhimanyu Kumar](http://about.me/abhimanyukumar)_
