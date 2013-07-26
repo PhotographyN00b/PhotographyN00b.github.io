@@ -6,9 +6,7 @@ category: "BroTip"
 tags: [BroTip]
 ---
 
-
-_Author: [Abhimanyu Kumar](http://about.me/abhimanyukumar)_
-
+> _Author: [Abhimanyu Kumar](http://about.me/abhimanyukumar)_
 
 If you are using a DSLR or even a simple point and shoot lens chances are you have seen some really
 confusing numbers written on it. What do these numbers mean and how are they relevant to the kind of
